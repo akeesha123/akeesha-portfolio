@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akeesha123.github.io/akeesha-portfolio/sitemap.xml
